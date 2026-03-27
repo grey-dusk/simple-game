@@ -1,0 +1,3 @@
+-keep class com.hexmerge.game.GameState { *; }
+-keepclassmembers class com.hexmerge.game.GameState { *; }
+-keep class com.hexmerge.model.HexCoord { *; }

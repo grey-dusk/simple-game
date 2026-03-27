@@ -1,0 +1,196 @@
+{
+  "version": "2.0",
+  "lastUpdated": "2026-03-27T09:34:47.329Z",
+  "activeFeatures": [
+    "model",
+    "game",
+    "hexmerge",
+    "viewmodel",
+    "ui"
+  ],
+  "primaryFeature": "model",
+  "features": {
+    "model": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-27T07:38:22.201Z",
+        "lastUpdated": "2026-03-27T09:26:13.892Z"
+      },
+      "lastFile": "/Users/chan/chdev/ch/simple-game/app/src/test/kotlin/com/hexmerge/model/HexBoardTest.kt"
+    },
+    "game": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-27T07:38:44.920Z",
+        "lastUpdated": "2026-03-27T09:26:59.805Z"
+      },
+      "lastFile": "/Users/chan/chdev/ch/simple-game/app/src/test/kotlin/com/hexmerge/game/SerializableGameStateTest.kt"
+    },
+    "hexmerge": {
+      "phase": "design",
+      "phaseNumber": 2,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {
+        "plan": "docs/01-plan/features/hexmerge.plan.md",
+        "design": "docs/02-design/features/hexmerge.design.md"
+      },
+      "timestamps": {
+        "started": "2026-03-27T07:39:28.687Z",
+        "lastUpdated": "2026-03-27T09:30:00.000Z"
+      },
+      "lastFile": "/Users/chan/chdev/ch/simple-game/docs/02-design/features/hexmerge.design.md"
+    },
+    "viewmodel": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-27T07:40:30.167Z",
+        "lastUpdated": "2026-03-27T09:25:37.941Z"
+      },
+      "lastFile": "/Users/chan/chdev/ch/simple-game/app/src/main/kotlin/com/hexmerge/viewmodel/GameViewModel.kt"
+    },
+    "ui": {
+      "phase": "do",
+      "phaseNumber": 3,
+      "matchRate": null,
+      "iterationCount": 0,
+      "requirements": [],
+      "documents": {},
+      "timestamps": {
+        "started": "2026-03-27T07:41:07.906Z",
+        "lastUpdated": "2026-03-27T09:34:47.329Z"
+      },
+      "lastFile": "/Users/chan/chdev/ch/simple-game/app/src/test/kotlin/com/hexmerge/ui/AngleToDirectionTest.kt"
+    }
+  },
+  "pipeline": {
+    "currentPhase": 1,
+    "level": "Dynamic",
+    "phaseHistory": []
+  },
+  "session": {
+    "startedAt": "2026-03-27T05:30:21.657Z",
+    "onboardingCompleted": false,
+    "lastActivity": "2026-03-27T09:34:47.329Z"
+  },
+  "history": [
+    {
+      "timestamp": "2026-03-27T07:38:22.201Z",
+      "feature": "model",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T07:38:44.920Z",
+      "feature": "game",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T07:39:09.533Z",
+      "feature": "game",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T07:39:28.687Z",
+      "feature": "hexmerge",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T07:40:07.048Z",
+      "feature": "hexmerge",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T07:40:30.167Z",
+      "feature": "viewmodel",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T07:41:07.906Z",
+      "feature": "ui",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T07:41:14.184Z",
+      "feature": "hexmerge",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T09:25:31.630Z",
+      "feature": "ui",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T09:25:37.941Z",
+      "feature": "viewmodel",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T09:25:56.708Z",
+      "feature": "model",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T09:26:13.892Z",
+      "feature": "model",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T09:26:44.040Z",
+      "feature": "game",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T09:26:59.805Z",
+      "feature": "game",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T09:27:11.339Z",
+      "feature": "ui",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T09:34:33.931Z",
+      "feature": "ui",
+      "phase": "do",
+      "action": "updated"
+    },
+    {
+      "timestamp": "2026-03-27T09:34:47.329Z",
+      "feature": "ui",
+      "phase": "do",
+      "action": "updated"
+    }
+  ]
+}
