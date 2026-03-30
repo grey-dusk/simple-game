@@ -37,20 +37,22 @@
       "lastFile": "/Users/chan/chdev/ch/simple-game/app/src/test/kotlin/com/hexmerge/game/SerializableGameStateTest.kt"
     },
     "hexmerge": {
-      "phase": "design",
-      "phaseNumber": 2,
-      "matchRate": null,
+      "phase": "completed",
+      "phaseNumber": 6,
+      "matchRate": 92,
       "iterationCount": 0,
       "requirements": [],
       "documents": {
         "plan": "docs/01-plan/features/hexmerge.plan.md",
-        "design": "docs/02-design/features/hexmerge.design.md"
+        "design": "docs/02-design/features/hexmerge.design.md",
+        "analysis": "docs/03-analysis/hexmerge.analysis.md",
+        "report": "docs/04-report/hexmerge.report.md"
       },
       "timestamps": {
         "started": "2026-03-27T07:39:28.687Z",
-        "lastUpdated": "2026-03-27T09:30:00.000Z"
+        "lastUpdated": "2026-03-30T00:00:00.000Z"
       },
-      "lastFile": "/Users/chan/chdev/ch/simple-game/docs/02-design/features/hexmerge.design.md"
+      "lastFile": "/Users/chan/chdev/ch/simple-game/docs/04-report/hexmerge.report.md"
     },
     "viewmodel": {
       "phase": "do",
